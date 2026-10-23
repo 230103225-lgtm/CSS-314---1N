@@ -1,0 +1,12 @@
+4b1cda7 - 2026-10-23 11:02:49 +0500 : feat: task 8 compute geometry
+8ecec8e - 2026-10-23 10:50:53 +0500 : feat: task 7 memory bandwidth saturation
+550cd9f - 2026-10-23 10:46:05 +0500 : feat: task 6 race condition forensics
+96e1213 - 2026-10-23 10:39:01 +0500 : feat: task 5 overhead crossover
+17f78b2 - 2026-10-23 10:32:04 +0500 : feat: task 4 scheduling under skew
+0e69bb0 - 2026-10-23 10:31:40 +0500 : feat: task 3 false sharing profile
+dfe87f4 - 2026-10-23 10:31:11 +0500 : feat: task 2 amdahl scaling
+da66cf2 - 2026-10-23 10:30:42 +0500 : feat: task 1 baseline execution
+1b3db85 - 2026-10-23 10:22:41 +0500 : Add files via upload
+21c1774 - 2026-10-23 10:11:15 +0500 : Add files via upload
+f6098d7 - 2026-10-23 10:01:51 +0500 : Add files via upload
+410d1f5 - 2026-10-23 09:58:19 +0500 : Add files via upload
